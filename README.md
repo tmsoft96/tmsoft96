@@ -7,7 +7,7 @@ I’ve been coding for 6+ years, and my journey has been nothing short of an adv
 
 🔥 What I Do Best?
 🔹 Mobile Development: Flutter, Java (Android), Swift (iOS)
-🔹 Backend Magic: Spring Boot, Django, PostgreSQL, MySql
+🔹 Backend Magic: Spring Boot, FastApi, Django, PostgreSQL, MySql
 🔹 API Architect: RESTful APIs, JWT Authentication, Microservices
 🔹 Cloud & DevOps: Docker, Railway.app, AWS, Firebase
 🔹 Innovation & UI/UX: Because good code deserves a great user experience!
